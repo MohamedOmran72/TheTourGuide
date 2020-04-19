@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">The Tour Guide</string>
-
     <string name="splash_image">Splash image</string>
     <string name="splash_welcome_message">Welcome in Egypt</string>
+    <string name="tab_pharaonic_fragment_title">Pharaonic</string>
+    <string name="tab_islamic_fragment_title">Islamic</string>
+    <string name="tab_christian_fragment_title">Christian</string>
+    <string name="tab_hotels_fragment_title">Hotels</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
