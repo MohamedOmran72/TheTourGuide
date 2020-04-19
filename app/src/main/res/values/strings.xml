@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">The Tour Guide</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_image">Splash image</string>
+    <string name="splash_welcome_message">Welcome in Egypt</string>
 </resources>

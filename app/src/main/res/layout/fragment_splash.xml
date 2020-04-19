@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/splash_color_background"
     tools:context=".ui.fragment.SplashFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+    <ImageView
+        android:id="@+id/image_splash"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pharaoh"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/splash_image"/>
 
-</FrameLayout>
+    <TextView
+        style="@style/TextAppearance.ItalicTitle"
+        android:layout_margin="@dimen/_16sdp"
+        android:layout_below="@id/image_splash"
+        android:layout_centerHorizontal="true"
+        android:textSize="32sp"
+        android:text="@string/splash_welcome_message"/>
+
+</RelativeLayout>

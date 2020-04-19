@@ -1,11 +1,73 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryDark">@color/primaryDarkColor</item>
         <item name="colorAccent">@color/primaryLightColor</item>
+    </style>
+
+    <!-- Text style. -->
+    <style name="TextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Title text style. -->
+    <style name="TextAppearance.Title" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="fontFamily">@font/google_sans_bold</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <!-- Italic title text style. -->
+    <style name="TextAppearance.ItalicTitle" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_17ssp</item>
+        <item name="fontFamily">@font/google_sans_bold_italic</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <!-- SubTitle text style. -->
+    <style name="TextAppearance.SubTitle" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="fontFamily">@font/google_sans_bold</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+
+    <!-- Italic SubTitle text style. -->
+    <style name="TextAppearance.ItalicSubTitle" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="fontFamily">@font/google_sans_bold_italic</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+
+    <!-- Large text style. -->
+    <style name="TextAppearance.LargeText" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="fontFamily">@font/google_sans</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <!-- Large italic text style. -->
+    <style name="TextAppearance.ItalicLargeText" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="fontFamily">@font/google_sans_italic</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <!-- Small text style. -->
+    <style name="TextAppearance.SmallText" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="fontFamily">@font/google_sans</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+
+    <!-- Small italic text style. -->
+    <style name="TextAppearance.ItalicSmallText" parent="TextAppearance">
+        <item name="android:textSize">@dimen/_6ssp</item>
+        <item name="fontFamily">@font/google_sans_italic</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
     </style>
 
 </resources>
