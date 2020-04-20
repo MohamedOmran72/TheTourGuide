@@ -12,10 +12,10 @@ import androidx.viewpager.widget.ViewPager;
 import com.example.thetourguide.R;
 import com.example.thetourguide.adapter.ViewPagerWithFragmentAdapter;
 import com.example.thetourguide.ui.fragment.SplashFragment;
-import com.example.thetourguide.ui.fragment.home.ChristianFragment;
+import com.example.thetourguide.ui.fragment.home.FavoriteDishes;
 import com.example.thetourguide.ui.fragment.home.HotelsFragment;
-import com.example.thetourguide.ui.fragment.home.IslamicFragment;
-import com.example.thetourguide.ui.fragment.home.PharaonicFragment;
+import com.example.thetourguide.ui.fragment.home.PublicPlaces;
+import com.example.thetourguide.ui.fragment.home.HistoricalPlaces;
 import com.google.android.material.tabs.TabLayout;
 
 import butterknife.BindView;
@@ -55,9 +55,9 @@ public class HomeActivity extends BaseActivity {
                         ViewPagerWithFragmentAdapter(getSupportFragmentManager());
 
                 // add fragments and taps to viewPagerWithFragmentAdapter to show on screen.
-                viewPagerWithFragmentAdapter.addPager(new PharaonicFragment(), getString(R.string.tab_pharaonic_fragment_title));
-                viewPagerWithFragmentAdapter.addPager(new IslamicFragment(), getString(R.string.tab_islamic_fragment_title));
-                viewPagerWithFragmentAdapter.addPager(new ChristianFragment(), getString(R.string.tab_christian_fragment_title));
+                viewPagerWithFragmentAdapter.addPager(new HistoricalPlaces(), getString(R.string.tab_historical_places_fragment_title));
+                viewPagerWithFragmentAdapter.addPager(new PublicPlaces(), getString(R.string.tab_public_places_fragment_title));
+                viewPagerWithFragmentAdapter.addPager(new FavoriteDishes(), getString(R.string.tab_favorite_dishes_fragment_title));
                 viewPagerWithFragmentAdapter.addPager(new HotelsFragment(), getString(R.string.tab_hotels_fragment_title));
 
                 viewPagerHomeActivity.setAdapter(viewPagerWithFragmentAdapter);

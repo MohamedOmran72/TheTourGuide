@@ -9,22 +9,24 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.thetourguide.R;
+import com.example.thetourguide.ui.fragment.BaseFragment;
 
+import butterknife.ButterKnife;
 
-/**
- * A simple {@link Fragment} subclass.
- */
-public class PharaonicFragment extends Fragment {
+public class FavoriteDishes extends BaseFragment {
 
-    public PharaonicFragment() {
+    public FavoriteDishes() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_pharaonic, container, false);
+        View view = inflater.inflate(R.layout.fragment_favorite_dishes, container, false);
+        initFragment();
+        ButterKnife.bind(this, view);
+
+        return view;
     }
 }
