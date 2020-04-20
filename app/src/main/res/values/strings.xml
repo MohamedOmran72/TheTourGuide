@@ -88,4 +88,22 @@
     <string name="favorite_dishes_description_6">Is a deep-fried ball, or a flat or doughnut-shaped patty, made from ground chickpeas, fava beans, or both. Herbs, spices, and onion relatives are commonly added to the dough. It is a well-known Middle Eastern dish that most likely originated in Egypt.</string>
     <string name="favorite_dishes_description_7">Is a traditional Middle Eastern sweet cake that originated in Egypt. It is made from a semolina batter and sweetened with orange flower water or rose water simple syrup.  </string>
 
+    <!-- Hotels title text-->
+    <string name="hotels_title_1">Four Seasons Hotel </string>
+    <string name="hotels_title_2">Intercontinental Cairo Semiramis </string>
+    <string name="hotels_title_3">Ramses Hilton </string>
+    <string name="hotels_title_4">Cairo Marriott Hotel </string>
+    <string name="hotels_title_5">Steigenberger Hotel El Tahrir Cairo </string>
+    <string name="hotels_title_6">Hotel Fairmont Nile City </string>
+    <string name="hotels_title_7">Grand Nile Tower Hotel </string>
+
+    <!-- Hotels address text-->
+    <string name="hotels_address_1">1089 CORNICHE EL NIL, Qasr El Nil, Cairo Governorate</string>
+    <string name="hotels_address_2">Corniche El Nil, Qasr El Nil, Cairo Governorate </string>
+    <string name="hotels_address_3">1115 Nile Corniche, Sharkas, Bulaq, Cairo Governorate </string>
+    <string name="hotels_address_4">16 Saray El، Gezira St, Zamalek </string>
+    <string name="hotels_address_5">Ismailia, Qasr El Nil, Cairo Governorate. </string>
+    <string name="hotels_address_6">Nile City Towers 2005 B Corniche، El Nil، Cairo Governorate </string>
+    <string name="hotels_address_7">Abdulaziz Al Saud، St, Corniche، El Nil</string>
+
 </resources>
