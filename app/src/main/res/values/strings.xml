@@ -6,4 +6,32 @@
     <string name="tab_public_places_fragment_title">Public Places</string>
     <string name="tab_favorite_dishes_fragment_title">Favorite Dishes</string>
     <string name="tab_hotels_fragment_title">Hotels</string>
+
+    <!-- Historical places title text-->
+    <string name="historical_places_title_1">The Great Pyramid of Giza </string>
+    <string name="historical_places_title_2">Egyptian Museum </string>
+    <string name="historical_places_title_3">Pyramid of Djoser </string>
+    <string name="historical_places_title_4">Citadel of Salah El Din </string>
+    <string name="historical_places_title_5">Mosque of Muhammad Ali </string>
+    <string name="historical_places_title_6">Mosque of Ibn Tulun </string>
+    <string name="historical_places_title_7">The Hanging Church </string>
+
+    <!-- Historical places address text-->
+    <string name="historical_places_address_1">Giza City, Giza, Greater Cairo, Egypt</string>
+    <string name="historical_places_address_2">Cairo, Egypt</string>
+    <string name="historical_places_address_3">Al Giza Desert, Giza , Egypt</string>
+    <string name="historical_places_address_4">Salah Salem St, El-Darb El-Ahmar, Cairo Governorate, Egypt</string>
+    <string name="historical_places_address_5">Salah Salem St, El-Darb El-Ahmar, Cairo Governorate, Egypt</string>
+    <string name="historical_places_address_6">Tolon, El-Sayeda Zainab, Cairo Governorate</string>
+    <string name="historical_places_address_7">Kom Ghorab, Old Cairo, Cairo Governorate</string>
+
+    <!-- Historical places description text-->
+    <string name="historical_places_description_1">The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact. </string>
+    <string name="historical_places_description_2">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display, the remainder in storerooms. Built in 1901 by the Italian construction company Garozzo-Zaffarani to a design by the French architect Marcel Dourgnon, the edifice is one of the largest museums in the region. As of March 2019, the museum is open to the public. In 2020 the museum is due to be superseded by the new Grand Egyptian Museum at Giza.</string>
+    <string name="historical_places_description_3">The Pyramid of Djoser (or Djeser and Zoser), or Step Pyramid (kbhw-ntrw in Egyptian[citation needed]), is an archaeological remain in the Saqqara necropolis, Egypt, northwest of the city of Memphis. The 6-tier, 4-sided structure is the earliest colossal stone building in Egypt. It was built in the 27th century BC during the Third Dynasty for the burial of Pharaoh Djoser. The pyramid is the central feature of a vast mortuary complex in an enormous courtyard surrounded by ceremonial structures and decoration. </string>
+    <string name="historical_places_description_4">Citadel of Salah El Din is a medieval Islamic-era fortification in Cairo, Egypt, built by Salah ad-Din (Saladin) and further developed by subsequent Egyptian rulers. It was the seat of government in Egypt and the residence of its rulers for nearly 700 years from the 13th to the 19th centuries. Its location on a promontory of the Mokattam hills near the center of Cairo commands a strategic position overlooking the city and dominating its skyline. At the time of its construction, it was among the most impressive and ambitious military fortification projects of its time.</string>
+    <string name="historical_places_description_5">Mosque of Muhammad Ali is a mosque situated in the Citadel of Cairo in Egypt and was commissioned by Muhammad Ali Pasha between 1830 and 1848.\n Situated on the summit of the citadel, this Ottoman mosque, the largest to be built in the first half of the 19th century, is, with its animated silhouette and twin minarets, the most visible mosque in Cairo. </string>
+    <string name="historical_places_description_6">Mosque of Ibn Tulun is located in Cairo, Egypt. It is the oldest mosque in Egypt and Africa surviving in its full original form, and is the largest mosque in Cairo in terms of land area. Since Ibn Tulun Mosque has lots of open space, it brings in a lot of sun and shadows. It is built around an open square courtyard which allows natural light to travel through. Ibn Tulun Mosque features Samarra style- its decorations being created from carved stucco and wood.</string>
+    <string name="historical_places_description_7">The Hanging Church is named for its location above a gatehouse of Babylon Fortress, the Roman fortress in Coptic Cairo (Old Cairo); its nave is suspended over a passage. The church is approached by twenty-nine steps; early travelers to Cairo dubbed it "the Staircase Church".</string>
+
 </resources>
