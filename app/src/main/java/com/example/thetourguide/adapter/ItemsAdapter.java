@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -14,6 +15,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.thetourguide.R;
 import com.example.thetourguide.data.model.ItemData;
 import com.example.thetourguide.ui.activity.BaseActivity;
+import com.example.thetourguide.ui.fragment.home.ItemDetailsFragment;
+import com.example.thetourguide.utilities.HelperMethod;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -55,8 +58,18 @@ public class ItemsAdapter extends RecyclerView.Adapter<ItemsAdapter.ViewHolder> 
         holder.textAddress.setText(itemDataList.get(position).getAddress());
     }
 
-    private void setAction(ViewHolder holder, int position) {
-
+    private void setAction(final ViewHolder holder, final int position) {
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (itemDataList.get(position).getDescription() != null) {
+                    ItemDetailsFragment itemDetailsFragment = new ItemDetailsFragment(itemDataList.get(position));
+                    HelperMethod.replaceFragment(activity.getSupportFragmentManager(), R.id.frame_fragment_container, itemDetailsFragment);
+                }else {
+                    Toast.makeText(context,R.string.no_description,Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
     }
 
     @Override

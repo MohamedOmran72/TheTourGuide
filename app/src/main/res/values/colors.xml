@@ -9,4 +9,5 @@
     <color name="secondaryDarkColor">#cab350</color>
     <color name="primaryTextColor">#000000</color>
     <color name="secondaryTextColor">#000000</color>
+    <color name="colorTransparentWhite">#cccccc</color>
 </resources>

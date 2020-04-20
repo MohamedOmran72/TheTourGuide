@@ -105,5 +105,6 @@
     <string name="hotels_address_5">Ismailia, Qasr El Nil, Cairo Governorate. </string>
     <string name="hotels_address_6">Nile City Towers 2005 B Corniche، El Nil، Cairo Governorate </string>
     <string name="hotels_address_7">Abdulaziz Al Saud، St, Corniche، El Nil</string>
+    <string name="no_description">No description to show</string>
 
 </resources>
