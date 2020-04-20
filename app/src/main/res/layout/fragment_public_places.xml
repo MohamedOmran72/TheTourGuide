@@ -6,7 +6,7 @@
     tools:context=".ui.fragment.home.PublicPlaces">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerview_islamic_fragment"
+        android:id="@+id/recyclerview_public_places_fragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 

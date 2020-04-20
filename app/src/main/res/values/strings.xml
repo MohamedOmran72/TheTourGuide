@@ -34,4 +34,31 @@
     <string name="historical_places_description_6">Mosque of Ibn Tulun is located in Cairo, Egypt. It is the oldest mosque in Egypt and Africa surviving in its full original form, and is the largest mosque in Cairo in terms of land area. Since Ibn Tulun Mosque has lots of open space, it brings in a lot of sun and shadows. It is built around an open square courtyard which allows natural light to travel through. Ibn Tulun Mosque features Samarra style- its decorations being created from carved stucco and wood.</string>
     <string name="historical_places_description_7">The Hanging Church is named for its location above a gatehouse of Babylon Fortress, the Roman fortress in Coptic Cairo (Old Cairo); its nave is suspended over a passage. The church is approached by twenty-nine steps; early travelers to Cairo dubbed it "the Staircase Church".</string>
 
+    <!-- Public places title text-->
+    <string name="public_places_title_1">Abdeen Palace </string>
+    <string name="public_places_title_2">Cairo Opera House </string>
+    <string name="public_places_title_3">Manial Palace and Museum </string>
+    <string name="public_places_title_4">Baron Empain Palace </string>
+    <string name="public_places_title_5">Al-Azhar Park </string>
+    <string name="public_places_title_6">Cairo Tower </string>
+    <string name="public_places_title_7">Tahrir Square </string>
+
+    <!-- Public places address text-->
+    <string name="public_places_address_1">El-Gomhoreya Square, Rahbet Abdin, Abdeen, Cairo Governorate, Egypt</string>
+    <string name="public_places_address_2">Cairo, Egypt</string>
+    <string name="public_places_address_3">1 Al Saraya, Old Cairo, Cairo Governorate, Egypt</string>
+    <string name="public_places_address_4">El-Orouba, El-Montaza, Heliopolis, Cairo Governorate</string>
+    <string name="public_places_address_5">Salah Salem St, El-Darb El-Ahmar, Cairo Governorate, Egypt</string>
+    <string name="public_places_address_6">Zamalek, Cairo Governorate</string>
+    <string name="public_places_address_7">eltahrir sqair, Cairo Governorate</string>
+
+    <!-- Public places description text-->
+    <string name="public_places_description_1">Abdeen Palace is a historic Cairo palace, and one of the official residences and the principal workplace of the President of Egypt, located above Qasr el-Nil Street in eastern Downtown Cairo, Egypt. </string>
+    <string name="public_places_description_2">The opera house was inaugurated on 10 October 1988. The funds for the complex were a gift from the nation of Japan to Egypt as a result of President Hosni Mubarak\'s visit to Japan in April 1983. Construction began in May 1985 and lasted for three years.</string>
+    <string name="public_places_description_3">The palace and estate has been preserved as an Antiquities Council directed historic house museum and estate, reflecting the settings and lifestyle of the late 19th- and early 20th-century Egyptian royal prince and heir apparent. The residence compound, composed of five separate and distinctively styled buildings, is surrounded by Persian gardens within an extensive English Landscape garden estate park, along a small branch of the Nile.  </string>
+    <string name="public_places_description_4">The palace was designed by French architect Alexandre Marcel and decorated by Georges-Louis Claude. Inspired by the Hindu temple of Angkor Wat in Cambodia, it was built between 1907 and 1911, in reinforced concrete. </string>
+    <string name="public_places_description_5">Al-Azhar Park is listed as one of the world\'s sixty great public spaces by the Project for Public Spaces (PPS). The park was created by the Historic Cities Support Programme (HCSP) of the Aga Khan Trust for Culture (AKTC), an entity of the Aga Khan Development Network (AKDN). The park, developed at a cost in excess of USD $30 million. </string>
+    <string name="public_places_description_6">Cairo Tower  is a free-standing concrete tower in Cairo, Egypt. At 187 m (614 ft), it has been the tallest structure in Egypt and North Africa for about 50 years. It was the tallest structure in Africa for ten years until 1971. </string>
+    <string name="public_places_description_7">The square has been the location and focus for political demonstrations in Cairo, most notably those that led to the 2011 Egyptian revolution and the resignation of President Hosni Mubarak. </string>
+
 </resources>
