@@ -61,4 +61,31 @@
     <string name="public_places_description_6">Cairo Tower  is a free-standing concrete tower in Cairo, Egypt. At 187 m (614 ft), it has been the tallest structure in Egypt and North Africa for about 50 years. It was the tallest structure in Africa for ten years until 1971. </string>
     <string name="public_places_description_7">The square has been the location and focus for political demonstrations in Cairo, most notably those that led to the 2011 Egyptian revolution and the resignation of President Hosni Mubarak. </string>
 
+    <!-- Favorite dishes title text-->
+    <string name="favorite_dishes_title_1">Kushari </string>
+    <string name="favorite_dishes_title_2">Ful medames </string>
+    <string name="favorite_dishes_title_3">Om Ali </string>
+    <string name="favorite_dishes_title_4">Feteer meshaltet </string>
+    <string name="favorite_dishes_title_5">Hawawshi </string>
+    <string name="favorite_dishes_title_6">Falafel </string>
+    <string name="favorite_dishes_title_7">Basbousa </string>
+
+    <!-- Favorite dishes address text-->
+    <string name="favorite_dishes_address_1">Kushari Abu Tarek</string>
+    <string name="favorite_dishes_address_2">El Gahsh, El-Sayeda Zainab </string>
+    <string name="favorite_dishes_address_3">El Malky, El-Sayeda Zainab </string>
+    <string name="favorite_dishes_address_4">Wahet Omar, Km 111 Alexandria Desert Rd </string>
+    <string name="favorite_dishes_address_5">Hawawshy Shalaby, saraya El Azbakeya St, DOWNTOWN. </string>
+    <string name="favorite_dishes_address_6">El Gahsh, El-Sayeda Zainab </string>
+    <string name="favorite_dishes_address_7">El Abd Pastry, Cairo Governorate</string>
+
+    <!-- Favorite dishes description text-->
+    <string name="favorite_dishes_description_1">An Egyptian dish that originated during the mid-19th century the dish combines Italian, Indian and Middle Eastern culinary elements. Kushari is made of rice, macaroni, and lentils mixed together, topped with a spiced tomato sauce and garlic vinegar and garnished with chickpeas and crispy fried onions and is often served with sprinklings of garlic juice, garlic vinegar and hot sauce are optional.  </string>
+    <string name="favorite_dishes_description_2">Is a stew of cooked fava beans served with vegetable oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetable, herb and spice ingredients. It is notably a staple food in Egypt.</string>
+    <string name="favorite_dishes_description_3">Is an Egyptian dessert. There are numerous variations with different composition. The name “Om Ali” is literally translated into the mother of Ali and it is traced back to the Ayyubid era. It is named after the wife of the ruler of the Ayyubid Empire in Egypt who used to make it for her husband.  </string>
+    <string name="favorite_dishes_description_4">Is a flaky Egyptian layered pastry. It consists of many thin layers of dough and ghee and an optional filling. The fillings can be both sweet or savory. Sweet fillings may include cheese, coconut, mehalabiya, malban, nutella or chocolate, while savory fillings can be anything from ground beef to sausage or cheese. Plain feteer is usually soaked in honey and spread with jam or cheese or served with olives. Because of its versatility, feteer is often referred to as an Egyptian pizza. </string>
+    <string name="favorite_dishes_description_5">Is a traditional Egyptian dish. It is a pita stuffed with minced meat and spiced with onions, pepper, parsley, and occasionally chilies. </string>
+    <string name="favorite_dishes_description_6">Is a deep-fried ball, or a flat or doughnut-shaped patty, made from ground chickpeas, fava beans, or both. Herbs, spices, and onion relatives are commonly added to the dough. It is a well-known Middle Eastern dish that most likely originated in Egypt.</string>
+    <string name="favorite_dishes_description_7">Is a traditional Middle Eastern sweet cake that originated in Egypt. It is made from a semolina batter and sweetened with orange flower water or rose water simple syrup.  </string>
+
 </resources>

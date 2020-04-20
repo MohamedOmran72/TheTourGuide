@@ -6,7 +6,7 @@
     tools:context=".ui.fragment.home.FavoriteDishes">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerview_christian_fragment"
+        android:id="@+id/recyclerview_favorite_dishes_fragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
